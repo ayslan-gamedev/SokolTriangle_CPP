@@ -1,3 +1,0 @@
-/home/Press_TheFurry/Projects/SokolTriangle/build/CMakeFiles/Triangulo.dir
-/home/Press_TheFurry/Projects/SokolTriangle/build/CMakeFiles/edit_cache.dir
-/home/Press_TheFurry/Projects/SokolTriangle/build/CMakeFiles/rebuild_cache.dir
