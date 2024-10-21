@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Press_TheFurry/Projects/SokolTriangle/build",
+  "command": "/sbin/c++  -I/home/Press_TheFurry/Projects/SokolTriangle/include -g -fsanitize=address,undefined,leak -fno-omit-frame-pointer -o CMakeFiles/Triangulo.dir/src/main.cpp.o -c /home/Press_TheFurry/Projects/SokolTriangle/src/main.cpp",
+  "file": "/home/Press_TheFurry/Projects/SokolTriangle/src/main.cpp",
+  "output": "CMakeFiles/Triangulo.dir/src/main.cpp.o"
+}
+]
